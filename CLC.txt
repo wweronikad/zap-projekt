@@ -1,0 +1,2 @@
+CLC
+Corine Land Cover 2018  (clc18_PL) - baza pokrycia terenu/użytkowania ziemi: https://clc.gios.gov.pl/index.php/clc-2018/udostepnianie
